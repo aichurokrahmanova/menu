@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300;400;500;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.container {
+  width: 1140px;
+  margin: auto 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a, a {
+  text-decoration: none;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/*# sourceMappingURL=reset.css.map */
